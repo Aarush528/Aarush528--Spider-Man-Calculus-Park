@@ -1,10 +1,28 @@
-🚀 Spider-Man: Calculus Park – An Interdisciplinary Math & Design Showcase
-This project, titled Spider-Man: Calculus Park, is a visually dynamic and mathematically rich 3D model built using GeoGebra's 3D Calculator. Designed as part of the IBDP HL Mathematics exploration, it merges real-world physics, advanced calculus, and imaginative storytelling. The model simulates Spider-Man swinging across a futuristic skyline into a glowing interdimensional portal, with roads, cars, layered animation, and glowing effects — all mathematically constructed.
+# 🕸️ Spider-Man: Calculus Park 🧠✨
 
-Vector functions, parametric equations, 3D geometry, and concepts like arc length and curvature are deeply embedded in the model. Each animation and structure is backed by calculated movement and transformations, not merely drawn for aesthetic. This project pushes the limits of what educational math modeling can look like — bringing creativity, technology, and complex mathematics into a single immersive experience.
+A 3D Calculus Visualisation project built using [GeoGebra 3D Calculator](https://www.geogebra.org/3d). This model reimagines Spider-Man swinging through a futuristic mathematical park, exploring concepts from **vectors**, **differentiation**, and **kinematics**.
 
-🔧 Tools Used: GeoGebra 3D, LaTeX (for math rendering), GitHub (for version control), and AI-assisted planning.
-📘 Goal: To demonstrate real-world applications of HL Mathematics topics in a way that captivates visually while maintaining academic rigor.
-🌐 By: Aarush Jha, IBDP-1 | Deputy Head (ICT & Pastoral Care) | DRSIS
+## 🔥 Project Highlights
+- 🧮 Used vector functions to simulate Spider-Man’s swinging path
+- 🚀 Modeled parabolic and circular motion using real calculus equations
+- 🌆 Built a 3D futuristic city with roads, flyovers, buildings, and portals
+- 🎆 Added animated glowing trails and portal effects
 
-This is not just a math assignment — it’s a 3D narrative built on the foundation of calculus.
+## 🎓 Educational Relevance
+This model was designed as part of the IBDP HL Mathematics project **"Calculus Park"**. The purpose was to make calculus concepts tangible and interactive using 3D animation.
+
+## 📁 Files Included
+- `spiderman-model.ggb`: Main GeoGebra file
+- `screenshots/`: Project visuals
+- `docs/`: Technical and mathematical breakdown
+- `extras/`: Creative assets (e.g., Spider-Man pixel art, trails)
+
+## 💡 Inspiration
+Spider-Man’s swinging motion is an example of real-life physics, and this project merges that with math to inspire visual learning.
+
+## 🚀 Future Additions
+- Motion control sliders
+- Time vs. position graphs
+- Portal warp simulation
+
+> “With great power comes great mathematical responsibility.” – Spider-Man (probably)
